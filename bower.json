@@ -1,6 +1,6 @@
 {
     "name": "JW Player Mirror",
-    "version": "6.12.4956",
+    "version": "7.1.4",
     "main": [
         "dist/jwplayer.flash.swf",
         "dist/jwplayer.min.js",
