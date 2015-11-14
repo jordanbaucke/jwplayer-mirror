@@ -3,7 +3,7 @@ JW Player (Mirror)
 
 Unofficial JW Player repository accessible via Bower.
 
-Current version is **6.12.4956**
+Current version is **7.1.4**
 
 
 
