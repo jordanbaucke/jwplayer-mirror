@@ -1,9 +1,9 @@
 {
     "name": "JW Player Mirror",
-    "version": "7.1.4-nomin",
+    "version": "7.1.4-min",
     "main": [
         "dist/jwplayer.flash.swf",
-        "dist/jwpayer.js",
+        "dist/jwpayer.min.js",
         "dist/jwplayer.html5.min.js",
         "dist/skins/beelden.css",
         "dist/skins/bekle.css",
