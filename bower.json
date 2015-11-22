@@ -1,9 +1,14 @@
 {
     "name": "JW Player Mirror",
-    "version": "7.1.4-deploy",
+    "version": "7.2.2",
     "main": [
         "dist/jwplayer.flash.swf",
         "dist/jwpayer.js",
+        "dist/polyfills.base64.js",
+        "dist/polyfills.promise.js",
+        "dist/provider.cast.js",
+        "dist/provider.shaka.js",
+        "dist/provider.youtube.js",
         "dist/jwplayer.html5.min.js",
         "dist/skins/beelden.css",
         "dist/skins/bekle.css",
