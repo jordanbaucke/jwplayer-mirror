@@ -1,9 +1,9 @@
 {
     "name": "JW Player Mirror",
-    "version": "7.2.2",
+    "version": "7.2.2-min",
     "main": [
         "dist/jwplayer.flash.swf",
-        "dist/jwpayer.js",
+        "dist/jwpayer.min.js",
         "dist/polyfills.base64.js",
         "dist/polyfills.promise.js",
         "dist/provider.cast.js",
